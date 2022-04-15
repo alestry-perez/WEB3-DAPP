@@ -1,4 +1,4 @@
-# Basic Sample Hardhat Project
+# Basic Sample DAPP Project
 
 This project demonstrates a basic understanding of a Hardhat use case. I created a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
 
